@@ -1,2 +1,10 @@
 # Kiro-Custom-Bots
-Alles über die Custom Bots des Kiro Servers
+
+Auf dieser Github Seite findest du viele Infos zu den Custom Bots
+
+[Discord Server](https://discord.gg/wQ2b8JF5rC)
+
+
+
+
+
